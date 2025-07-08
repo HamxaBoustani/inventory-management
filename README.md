@@ -1,4 +1,4 @@
-# inventory-management
+# Inventory Management
 This is a Google Apps Script code for an **inventory management system** in Google Sheets, designed for Persian users.  
 
 ### **Key Features**:  
@@ -28,3 +28,23 @@ This is a Google Apps Script code for an **inventory management system** in Goog
 - `JALALI()` converts Gregorian dates to Persian (Jalali) format.  
 
 This script is ideal for small businesses tracking inventory in Persian.
+
+Here’s a professional English response you can use to share the project file:  
+
+---  
+
+**You can download the project file from this link:**  
+🔗 [Google Sheets Inventory Project](https://docs.google.com/spreadsheets/d/1SyymmHiGl6ZuW3pQJtSjEWxZZuGNlwRgYxyiuE7SJaQ/edit?usp=sharing)  
+
+### **How to Use**:  
+1. **Make a Copy**: Go to *File > Make a Copy* to edit your own version.  
+2. **Enable Script**: Go to *Extensions > Apps Script* to view/modify the code.  
+3. **Refresh Menu**: After opening, click *Inventory* in the menu bar to access features.  
+
+⚠️ **Note**: The script is designed for Persian inventory tracking but can be adapted for other languages.  
+
+Let me know if you need help setting it up! 🚀  
+
+---  
+
+This keeps it clear, concise, and user-friendly while encouraging engagement. Would you like any modifications?
