@@ -44,7 +44,3 @@ Here’s a professional English response you can use to share the project file:
 ⚠️ **Note**: The script is designed for Persian inventory tracking but can be adapted for other languages.  
 
 Let me know if you need help setting it up! 🚀  
-
----  
-
-This keeps it clear, concise, and user-friendly while encouraging engagement. Would you like any modifications?
